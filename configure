@@ -1,4 +1,4 @@
-AC_INIT([helloworld], [0.1], [george@thoughtbot.com])
+AC_INIT([main], [0.1], [rafael.arce@upr.edu])
 AM_INIT_AUTOMAKE
 AC_PROG_CC
 AC_CONFIG_FILES([Makefile])
